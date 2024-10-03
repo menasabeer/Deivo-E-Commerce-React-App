@@ -28,7 +28,7 @@ import Wishlist from "./component/Wishlist/Wishlist";
 import AddAddress from "./component/AddAddress/AddAddress";
 
 
-let routers = createBrowserRouter([
+let routers = createHashRouter([
     {
         path: "/",
         element: <Layout />,
