@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Deivo-E-Commerce-React-App/static/css/main.49c19880.css",
+    "main.js": "/Deivo-E-Commerce-React-App/static/js/main.f64dd2f4.js",
+    "static/media/fa-solid-900.ttf": "/Deivo-E-Commerce-React-App/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/slider-image-1.jpeg": "/Deivo-E-Commerce-React-App/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/slider-image-4.jpg": "/Deivo-E-Commerce-React-App/static/media/slider-image-4.7e4fc989b376b7f80b94.jpg",
+    "static/media/fa-brands-400.ttf": "/Deivo-E-Commerce-React-App/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/slider-image-3.jpeg": "/Deivo-E-Commerce-React-App/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/Deivo-E-Commerce-React-App/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/Deivo-E-Commerce-React-App/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/Deivo-E-Commerce-React-App/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/Deivo-E-Commerce-React-App/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/american-express-logo.png": "/Deivo-E-Commerce-React-App/static/media/american-express-logo.65c7eb81c156128376d2.65c7eb81c156128376d2.png",
+    "static/media/sideImg1.jpg": "/Deivo-E-Commerce-React-App/static/media/sideImg1.44ac2c1930b8e178e8d1.jpg",
+    "static/media/paypal logo.png": "/Deivo-E-Commerce-React-App/static/media/paypal logo.fc32cd2e9f125109e1f7.fc32cd2e9f125109e1f7.png",
+    "static/media/sideImg2.webp": "/Deivo-E-Commerce-React-App/static/media/sideImg2.30b2d6bdb3dccaa71142.webp",
+    "static/media/mastercard-logo.png": "/Deivo-E-Commerce-React-App/static/media/mastercard-logo.2a663b803dbf010de8fc.2a663b803dbf010de8fc.png",
+    "static/media/fa-regular-400.woff2": "/Deivo-E-Commerce-React-App/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/app-store.png": "/Deivo-E-Commerce-React-App/static/media/app-store.1d436959d10ff5044835.1d436959d10ff5044835.png",
+    "static/media/amazon-logo.png": "/Deivo-E-Commerce-React-App/static/media/amazon-logo.aa3d48df057a15fc12d9.aa3d48df057a15fc12d9.png",
+    "static/media/fa-v4compatibility.ttf": "/Deivo-E-Commerce-React-App/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/google-play.png": "/Deivo-E-Commerce-React-App/static/media/google-play.1d282319389edc9899fa.1d282319389edc9899fa.png",
+    "static/media/fa-v4compatibility.woff2": "/Deivo-E-Commerce-React-App/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/slick.svg": "/Deivo-E-Commerce-React-App/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Deivo-E-Commerce-React-App/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Deivo-E-Commerce-React-App/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Deivo-E-Commerce-React-App/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Deivo-E-Commerce-React-App/index.html",
+    "main.49c19880.css.map": "/Deivo-E-Commerce-React-App/static/css/main.49c19880.css.map",
+    "main.f64dd2f4.js.map": "/Deivo-E-Commerce-React-App/static/js/main.f64dd2f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c19880.css",
+    "static/js/main.f64dd2f4.js"
+  ]
+}
