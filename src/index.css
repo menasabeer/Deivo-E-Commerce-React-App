@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@300&display=swap');
+:root{
+    --main-color:#098da8;
+    --light-color:#f0f3f2;
+    --shadow:rgba(145,158,171,2) 0px 2px 4px -1px ,rgba(145.158,171,14) 0px 4px 5px 0px ,rgba(145,158,171,12)0px 1px 3px 0px ;
+    --font-family:"Encode Sans Expanded",sans-serif;
+    --rating-color:#ffc908;
+}
+body{
+    font-family: var(--font-family)!important;
+}
+
+.btn-main{
+    background-color: var(--main-color);
+}
+.clear-btn{
+    background-color: var(--main-color);
+}
+.btnClear {
+    border: 0px;
+}
+.rating-color{
+    color:var(--rating-color);
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+a,a:hover{
+    color: black;
+    text-decoration: none;
+}
+.products{
+    position:relative;
+}
+.products .loved{
+    z-index: 10;
+    position: absolute;
+    top: 20px ;
+    right: 25px;
+    font-size: 20px;
+    color: red;
+}
+.loved:hover{
+    cursor: pointer;
+}
+.product:hover{
+    box-shadow: var(--shadow);
+    border:solid 2px var(--main-color);
+}
+.product .btn{
+    transition: transform 1s , opacity 1s;
+    transform: translateY(100%);
+    opacity: 0;
+}
+.product:hover .btn{
+    opacity: 1;
+    transform: translateY(0%);
+}
+.logo-bg{
+    color: var(--main-color);
+}
+.font-bold{
+    font-weight: 900;
+}
+.font-sm{
+    font-size: 14px;
+}
+.text-main{
+    color: var(--main-color);
+}
+.bg-main{
+    background-color: var(--main-color)!important;
+}
+.bg-main-light{
+    background-color: var(--light-color)!important;
+}
+.widthSlider{
+    width: 100%;
+}
+.brands {
+    transition: transform 0.3s ease-in-out; /* Adds a smooth transition effect */
+}
+.brands:hover{
+    box-shadow: var(--shadow);
+    border:solid 2px var(--main-color);
+    transform: scale(1.1);
+}
+.category {
+    transition: transform 0.3s ease-in-out; /* Adds a smooth transition effect */
+}
+
+.category:hover{
+    box-shadow: var(--shadow);
+    border:solid 2px var(--main-color);
+    transform: scale(1.1);
+}
+.nav-item {
+    position: relative;
+  }
+  
+  .nav-item .nav-link {
+    position: relative;
+  }
+  
+  .nav-item .notification-badge {
+    background-color: #f30e01; /* Facebook's notification red color */
+    color: white;
+    padding: 0.2em 0.5em;
+    border-radius: 50%;
+    font-size: 0.75rem;
+    font-weight: bold;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(50%,0);
+  }
+
+.size{
+    width: 85px;
+}
+.appStore{
+    width: 90px;
+}
+.googlePlay{
+    width: 115px;
+}
+.error-animation{
+    width: 500px;
+    height: 400px;
+}
